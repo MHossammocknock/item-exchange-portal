@@ -6,6 +6,7 @@
     "firebase": "^10.8.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-scripts": "^5.0.1"
   },
   "scripts": {
@@ -24,5 +25,12 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+=======
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+>>>>>>> b5e378daf0f961fafaa36ea72a5a2824c3c66a0d
   }
 }
